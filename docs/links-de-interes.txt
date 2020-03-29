@@ -1,0 +1,8 @@
+Saber qué navegadores soportan ciertas funciones:
+https://caniuse.com/
+
+Minimizar código JavaScript:
+https://javascript-minifier.com/
+
+Librería para manejo de arreglos:
+https://underscorejs.org/
